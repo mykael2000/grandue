@@ -71,7 +71,7 @@
 <script src="lib/waypoints/waypoints.min.js"></script>
 <script src="lib/owlcarousel/owl.carousel.min.js"></script>
 <script src="lib/counterup/counterup.min.js"></script>
-<script src="//code.jivosite.com/widget/ooRdNktkAG" async></script>
+<script src="//code.tidio.co/rga7wgaer6lflbe0ytd1viox0vhikil0.js" async></script>
 
 
 <!-- Template Javascript -->
