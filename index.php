@@ -76,7 +76,7 @@ include 'header.php';
                 <div class="h-100 px-4 pe-lg-0">
                     <div class="row g-5">
                         <div class="col-sm-6">
-                            <strong><span style="color: black" class="display-5" data-toggle="counter-up">9000</span>
+                            <strong><span style="color: black" class="display-5" data-toggle="counter-up">900</span>
                                 <span>+</span></strong>
                             <p class="fs-5 text-primary">Clients helped</p>
                         </div>
